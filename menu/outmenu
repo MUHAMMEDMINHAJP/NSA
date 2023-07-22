@@ -1,0 +1,140 @@
+ksb@ksb-optiplex-3060:~/nsa$ sh menudriven.sh
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+1
+
+
+
+-----ALL ORDINARY FILES-----
+menudriven.sh
+window.sh
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+2
+
+
+
+-----ALL DIRECTORY FILES-----
+5
+menu
+recorded
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+3
+
+
+
+-----ALL SPECIAL FILES-----
+No files exist
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+4
+
+
+
+-----ALL FILES READABLE TO UGO-----
+menudriven.sh
+window.sh
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+5
+
+
+
+-----ALL FILES WRITABLE TO UGO-----
+No files exist
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+6
+
+
+
+-----ALL FILES EXECUTABLE TO UGO-----
+No files exist
+
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+7
+
+
+
+-----ALL FILES RWX TO OWNER-----
+No files exist
+
+Press enter to continue
+
+
