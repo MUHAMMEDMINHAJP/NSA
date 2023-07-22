@@ -4,7 +4,7 @@ then
 echo "Syntax error"
 exit 1
 fi
-echo "\n\nDirectory of 'pwd' \n "
+echo "\n\nDirectory of `pwd` \n "
 for f in *
 do
 fdatetime=`date -r $f "+ %d-%m-%y %H:%M:%S"`
